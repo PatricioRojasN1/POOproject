@@ -1,8 +1,7 @@
 # POO-1
-# Índice de Prácticas del Curso
+# Prácticas del Curso
 
 CLAUDIO PATRICIO ROJAS RODRÍGUEZ 
-A continuación se listan las prácticas realizadas durante el curso:
 
 1. [Práctica 1: Figuras sin Constructor](P1-FigurasSinConstructor/)
 2. [Práctica 2: Figuras con Parámetros](P2-FigurasConParametros/)
